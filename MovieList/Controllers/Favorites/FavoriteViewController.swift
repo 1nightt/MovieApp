@@ -1,5 +1,5 @@
 import UIKit
-
+// MVVM
 class FavoriteViewController: UIViewController {
     
     override func viewDidLoad() {
